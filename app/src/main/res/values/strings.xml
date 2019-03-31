@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RollCaller</string>
+    <string name="TBstart">USER REGISTRATION</string>
+    <string name="ETstart">Enter Username</string>
+    <string name="ET2start">LOGIN</string>
+    <string name="TBenroll">Username</string>
+    <string name="Benroll">ENROLL ME</string>
+    <string name="Bop1">GIVE ROLL CALL</string>
+    <string name="Bop2">APPLY FOR HOME</string>
+</resources>
