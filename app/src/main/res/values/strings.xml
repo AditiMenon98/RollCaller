@@ -7,4 +7,5 @@
     <string name="Benroll">ENROLL ME</string>
     <string name="Bop1">GIVE ROLL CALL</string>
     <string name="Bop2">APPLY FOR HOME</string>
+    <string name="rollcall">Please Give Roll Call</string>
 </resources>
